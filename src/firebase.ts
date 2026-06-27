@@ -26,7 +26,7 @@ import {
 
 // Configured from firebase-applet-config.json
 const firebaseConfig = {
-  apiKey: "AIzaSyAMip5-B0BqAibN6kF53hErorFMK9J9W20",
+  apiKey: "",
   authDomain: "gen-lang-client-0159054621.firebaseapp.com",
   projectId: "gen-lang-client-0159054621",
   storageBucket: "gen-lang-client-0159054621.firebasestorage.app",
