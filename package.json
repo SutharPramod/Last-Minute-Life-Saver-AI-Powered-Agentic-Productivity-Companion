@@ -2,7 +2,7 @@
   "name": "react-example",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://d33046152-cyber.github.io/last-minute-life-saver/",
+  "homepage": "https://SutharPramod.github.io/last-minute-life-saver/",
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",
